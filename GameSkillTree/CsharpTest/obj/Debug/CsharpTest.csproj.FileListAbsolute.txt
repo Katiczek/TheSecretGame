@@ -13,3 +13,6 @@ C:\Users\jastrmag\Desktop\GameSkillTree\CsharpTest\obj\Debug\CsharpTest.pdb
 C:\Users\jastrmag\Desktop\GameSkillTree\CsharpTest\obj\Debug\CsharpTest.csprojResolveAssemblyReference.cache
 C:\Users\jastrmag\Desktop\GameSkillTree\CsharpTest\bin\Debug\CsharpTest.exe
 C:\Users\jastrmag\Desktop\GameSkillTree\CsharpTest\bin\Debug\CsharpTest.pdb
+C:\Users\Magda\Desktop\TheSecretGame\GameSkillTree\CsharpTest\bin\Debug\CsharpTest.exe.config
+C:\Users\Magda\Desktop\TheSecretGame\GameSkillTree\CsharpTest\obj\Debug\CsharpTest.exe
+C:\Users\Magda\Desktop\TheSecretGame\GameSkillTree\CsharpTest\obj\Debug\CsharpTest.pdb
