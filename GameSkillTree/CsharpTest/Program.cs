@@ -64,6 +64,7 @@ namespace RPGgame
             kati.getSkillParam(SkillTag.skill_2sword).SkillValue = 5;
             Console.WriteLine(kati.getSkillParam(SkillTag.skill_2sword).SkillValue);
             //test git hub
+            //test2
         }
 
         static private SkillsMngr m_CSkillsMngr;
