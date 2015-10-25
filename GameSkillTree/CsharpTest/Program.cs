@@ -8,7 +8,7 @@ namespace RPGgame
 {
     class Program
     {
-        // Przyklladowa funkcja ktora wyswietla wszystkie dostepne dane o umiejce. 
+        // Przyklladowa funkcja ktora wyswietla wszystkie dostepne dane o umiejce. AAAA
         static public void printSkillInfo(SkillTag a_eSkillTag)
         {
             //  Jesli pierwszy element z enum SkillTag jest mniejszy od podanego (on ma index 0), 
