@@ -16,3 +16,6 @@ C:\Users\jastrmag\Desktop\GameSkillTree\CsharpTest\bin\Debug\CsharpTest.pdb
 C:\Users\Magda\Desktop\TheSecretGame\GameSkillTree\CsharpTest\bin\Debug\CsharpTest.exe.config
 C:\Users\Magda\Desktop\TheSecretGame\GameSkillTree\CsharpTest\obj\Debug\CsharpTest.exe
 C:\Users\Magda\Desktop\TheSecretGame\GameSkillTree\CsharpTest\obj\Debug\CsharpTest.pdb
+C:\Users\Chaapaai\Desktop\The Game\TheSecretGame\GameSkillTree\CsharpTest\bin\Debug\CsharpTest.exe.config
+C:\Users\Chaapaai\Desktop\The Game\TheSecretGame\GameSkillTree\CsharpTest\obj\Debug\CsharpTest.exe
+C:\Users\Chaapaai\Desktop\The Game\TheSecretGame\GameSkillTree\CsharpTest\obj\Debug\CsharpTest.pdb
