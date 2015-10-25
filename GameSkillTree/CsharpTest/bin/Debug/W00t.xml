@@ -1,0 +1,2064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skills>
+<Skill>
+    <Tag>skill_psyche</Tag>
+    <Parent>skill_psyche</Parent>
+    <ParentWeight>0.00</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_psyche</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_senses</Tag>
+    <Parent>skill_psyche</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_senses</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_perception</Tag>
+    <Parent>skill_senses</Parent>
+    <ParentWeight>0.50</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_perception</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_spot</Tag>
+    <Parent>skill_perception</Parent>
+    <ParentWeight>0.35</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_spot</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_listen</Tag>
+    <Parent>skill_perception</Parent>
+    <ParentWeight>0.35</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_listen</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_taste</Tag>
+    <Parent>skill_perception</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_taste</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_touch</Tag>
+    <Parent>skill_perception</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_touch</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_smell</Tag>
+    <Parent>skill_perception</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_smell</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_attention</Tag>
+    <Parent>skill_senses</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_attention</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_concentration</Tag>
+    <Parent>skill_attention</Parent>
+    <ParentWeight>0.30</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_concentration</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_focus</Tag>
+    <Parent>skill_attention</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_focus</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_caution</Tag>
+    <Parent>skill_attention</Parent>
+    <ParentWeight>0.30</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_caution</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_discipline</Tag>
+    <Parent>skill_attention</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_discipline</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_trapdetect</Tag>
+    <Parent>skill_attention</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_trapdetect</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_analysis</Tag>
+    <Parent>skill_senses</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_analysis</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_empathy</Tag>
+    <Parent>skill_analysis</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_empathy</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_study</Tag>
+    <Parent>skill_analysis</Parent>
+    <ParentWeight>0.40</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_study</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_encryption</Tag>
+    <Parent>skill_analysis</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_encryption</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_pricing</Tag>
+    <Parent>skill_analysis</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_pricing</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_expression</Tag>
+    <Parent>skill_psyche</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_expression</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_command</Tag>
+    <Parent>skill_expression</Parent>
+    <ParentWeight>0.34</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_command</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_speech</Tag>
+    <Parent>skill_command</Parent>
+    <ParentWeight>0.30</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_speech</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_drill</Tag>
+    <Parent>skill_command</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_drill</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_teaching</Tag>
+    <Parent>skill_command</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_teaching</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_administration</Tag>
+    <Parent>skill_command</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_administration</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_inspire</Tag>
+    <Parent>skill_command</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_inspire</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_artsimple</Tag>
+    <Parent>skill_expression</Parent>
+    <ParentWeight>0.33</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_artsimple</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_writing</Tag>
+    <Parent>skill_artsimple</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_writing</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_singingsimple</Tag>
+    <Parent>skill_artsimple</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_singingsimple</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_musicsimple</Tag>
+    <Parent>skill_artsimple</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_musicsimple</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_acting</Tag>
+    <Parent>skill_artsimple</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_acting</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_artadvanced</Tag>
+    <Parent>skill_expression</Parent>
+    <ParentWeight>0.33</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_artadvanced</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_painting</Tag>
+    <Parent>skill_artadvanced</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_painting</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_singingadvanced</Tag>
+    <Parent>skill_artadvanced</Parent>
+    <ParentWeight>0.15</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_singingadvanced</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_poetry</Tag>
+    <Parent>skill_artadvanced</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_poetry</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_sculpture</Tag>
+    <Parent>skill_artadvanced</Parent>
+    <ParentWeight>0.15</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_sculpture</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_musicadvanced</Tag>
+    <Parent>skill_artadvanced</Parent>
+    <ParentWeight>0.15</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_musicadvanced</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_composing</Tag>
+    <Parent>skill_artadvanced</Parent>
+    <ParentWeight>0.15</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_composing</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_character</Tag>
+    <Parent>skill_psyche</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_character</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_behaviour</Tag>
+    <Parent>skill_character</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_behaviour</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_culture</Tag>
+    <Parent>skill_behaviour</Parent>
+    <ParentWeight>0.30</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_culture</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_entertain</Tag>
+    <Parent>skill_behaviour</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_entertain</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_hygiene</Tag>
+    <Parent>skill_behaviour</Parent>
+    <ParentWeight>0.30</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_hygiene</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_firstimpression</Tag>
+    <Parent>skill_behaviour</Parent>
+    <ParentWeight>0.30</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_firstimpression</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_manipulation</Tag>
+    <Parent>skill_character</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_manipulation</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_distraction</Tag>
+    <Parent>skill_manipulation</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_distraction</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_intrigue</Tag>
+    <Parent>skill_manipulation</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_intrigue</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_provoke</Tag>
+    <Parent>skill_manipulation</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_provoke</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_bluff</Tag>
+    <Parent>skill_manipulation</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_bluff</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_intimidate</Tag>
+    <Parent>skill_manipulation</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_intimidate</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_gambling</Tag>
+    <Parent>skill_manipulation</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_gambling</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_will</Tag>
+    <Parent>skill_character</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_will</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_magicresist</Tag>
+    <Parent>skill_will</Parent>
+    <ParentWeight>0.33</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_magicresist</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_influenceresist</Tag>
+    <Parent>skill_will</Parent>
+    <ParentWeight>0.33</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_influenceresist</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_sensemotive</Tag>
+    <Parent>skill_will</Parent>
+    <ParentWeight>0.34</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_sensemotive</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_persuation</Tag>
+    <Parent>skill_character</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_persuation</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_torture</Tag>
+    <Parent>skill_persuation</Parent>
+    <ParentWeight>0.15</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_torture</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_seduction</Tag>
+    <Parent>skill_persuation</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_seduction</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_persuading</Tag>
+    <Parent>skill_persuation</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_persuading</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_trade</Tag>
+    <Parent>skill_persuation</Parent>
+    <ParentWeight>0.15</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_trade</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_begging</Tag>
+    <Parent>skill_persuation</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_begging</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_bribery</Tag>
+    <Parent>skill_persuation</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_bribery</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_knowledge</Tag>
+    <Parent>skill_psyche</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_knowledge</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_survival</Tag>
+    <Parent>skill_knowledge</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_survival</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_waterhandling</Tag>
+    <Parent>skill_survival</Parent>
+    <ParentWeight>0.15</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_waterhandling</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_navigation</Tag>
+    <Parent>skill_survival</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_navigation</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_search</Tag>
+    <Parent>skill_survival</Parent>
+    <ParentWeight>0.15</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_search</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_tracking</Tag>
+    <Parent>skill_survival</Parent>
+    <ParentWeight>0.15</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_tracking</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_orientation</Tag>
+    <Parent>skill_survival</Parent>
+    <ParentWeight>0.15</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_orientation</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_fishing</Tag>
+    <Parent>skill_survival</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_fishing</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_maintenance</Tag>
+    <Parent>skill_survival</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_maintenance</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_heal</Tag>
+    <Parent>skill_knowledge</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_heal</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_diagnosis</Tag>
+    <Parent>skill_heal</Parent>
+    <ParentWeight>0.40</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_diagnosis</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_healdisease</Tag>
+    <Parent>skill_heal</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_healdisease</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_surgery</Tag>
+    <Parent>skill_heal</Parent>
+    <ParentWeight>0.30</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_surgery</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_firstaid</Tag>
+    <Parent>skill_heal</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_firstaid</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_husbandry</Tag>
+    <Parent>skill_knowledge</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_husbandry</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_herbalism</Tag>
+    <Parent>skill_agriculture</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_herbalism</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_cultivation</Tag>
+    <Parent>skill_agriculture</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_cultivation</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_breeding</Tag>
+    <Parent>skill_agriculture</Parent>
+    <ParentWeight>0.40</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_breeding</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_agriculture</Tag>
+    <Parent>skill_agriculture</Parent>
+    <ParentWeight>0.40</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_agriculture</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_chemistry</Tag>
+    <Parent>skill_knowledge</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_chemistry</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_pharmaclology</Tag>
+    <Parent>skill_chemistry</Parent>
+    <ParentWeight>0.30</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_pharmaclology</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_misturology</Tag>
+    <Parent>skill_chemistry</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_misturology</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_toxycology</Tag>
+    <Parent>skill_chemistry</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_toxycology</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_metallurgy</Tag>
+    <Parent>skill_chemistry</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_metallurgy</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_brewing</Tag>
+    <Parent>skill_chemistry</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_brewing</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_foodpreparation</Tag>
+    <Parent>skill_knowledge</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_foodpreparation</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_cooking</Tag>
+    <Parent>skill_foodpreparation</Parent>
+    <ParentWeight>0.40</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_cooking</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_preservation</Tag>
+    <Parent>skill_foodpreparation</Parent>
+    <ParentWeight>0.40</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_preservation</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_courtcooking</Tag>
+    <Parent>skill_foodpreparation</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_courtcooking</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_linguistics</Tag>
+    <Parent>skill_knowledge</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_linguistics</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_secretlanguages</Tag>
+    <Parent>skill_linguistics</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_secretlanguages</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_secretsings</Tag>
+    <Parent>skill_linguistics</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_secretsings</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_languages</Tag>
+    <Parent>skill_linguistics</Parent>
+    <ParentWeight>0.60</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_languages</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_law</Tag>
+    <Parent>skill_knowledge</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_law</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_fencing</Tag>
+    <Parent>skill_law</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_fencing</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_legalknowledge</Tag>
+    <Parent>skill_law</Parent>
+    <ParentWeight>0.80</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_legalknowledge</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_lore</Tag>
+    <Parent>skill_knowledge</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_lore</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_astrology</Tag>
+    <Parent>skill_lore</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_astrology</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_astronomy</Tag>
+    <Parent>skill_lore</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_astronomy</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_heraldry</Tag>
+    <Parent>skill_lore</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_heraldry</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_etiquette</Tag>
+    <Parent>skill_lore</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_etiquette</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_animalcare</Tag>
+    <Parent>skill_knowledge</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_animalcare</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_tamingbreeda</Tag>
+    <Parent>skill_animalcare</Parent>
+    <ParentWeight>0.40</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_tamingbreeda</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_tamingwilda</Tag>
+    <Parent>skill_animalcare</Parent>
+    <ParentWeight>0.30</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_tamingwilda</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_taminghomea</Tag>
+    <Parent>skill_animalcare</Parent>
+    <ParentWeight>0.30</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_taminghomea</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_engineering</Tag>
+    <Parent>skill_knowledge</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_psyche</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_engineering</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_body</Tag>
+    <Parent>skill_body</Parent>
+    <ParentWeight>0.00</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_body</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_agility</Tag>
+    <Parent>skill_body</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_agility</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_stability</Tag>
+    <Parent>skill_agility</Parent>
+    <ParentWeight>0.40</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_stability</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_sneakingrural</Tag>
+    <Parent>skill_stability</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_sneakingrural</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_sneakingcity</Tag>
+    <Parent>skill_stability</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_sneakingcity</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_dance</Tag>
+    <Parent>skill_stability</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_dance</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_riding</Tag>
+    <Parent>skill_stability</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_riding</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_acrobatics</Tag>
+    <Parent>skill_stability</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_acrobatics</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_skiing</Tag>
+    <Parent>skill_stability</Parent>
+    <ParentWeight>0.05</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_skiing</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_legwork</Tag>
+    <Parent>skill_stability</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_legwork</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_vaulting</Tag>
+    <Parent>skill_stability</Parent>
+    <ParentWeight>0.05</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_vaulting</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_nimbleness</Tag>
+    <Parent>skill_agility</Parent>
+    <ParentWeight>0.30</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_nimbleness</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_freeing</Tag>
+    <Parent>skill_nimbleness</Parent>
+    <ParentWeight>0.15</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_freeing</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_stretching</Tag>
+    <Parent>skill_nimbleness</Parent>
+    <ParentWeight>0.35</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_stretching</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_jump</Tag>
+    <Parent>skill_nimbleness</Parent>
+    <ParentWeight>0.50</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_jump</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_reflex</Tag>
+    <Parent>skill_agility</Parent>
+    <ParentWeight>0.30</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_reflex</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_tumble</Tag>
+    <Parent>skill_reflex</Parent>
+    <ParentWeight>0.40</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_tumble</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_dodge</Tag>
+    <Parent>skill_reflex</Parent>
+    <ParentWeight>0.40</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_dodge</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_flee</Tag>
+    <Parent>skill_reflex</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_flee</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_durability</Tag>
+    <Parent>skill_body</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_durability</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_condition</Tag>
+    <Parent>skill_durability</Parent>
+    <ParentWeight>0.50</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_condition</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_mining</Tag>
+    <Parent>skill_condition</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_mining</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_rowing</Tag>
+    <Parent>skill_condition</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_rowing</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_sailing</Tag>
+    <Parent>skill_condition</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_sailing</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_swimming</Tag>
+    <Parent>skill_condition</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_swimming</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_climbing</Tag>
+    <Parent>skill_condition</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_climbing</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_resistance</Tag>
+    <Parent>skill_durability</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_resistance</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_painresistance</Tag>
+    <Parent>skill_resistance</Parent>
+    <ParentWeight>0.50</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_painresistance</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_diseaseresistance</Tag>
+    <Parent>skill_resistance</Parent>
+    <ParentWeight>0.50</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_diseaseresistance</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_metabolism</Tag>
+    <Parent>skill_durability</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_metabolism</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_drinkalcohol</Tag>
+    <Parent>skill_metabolism</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_drinkalcohol</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_toxinresistance</Tag>
+    <Parent>skill_metabolism</Parent>
+    <ParentWeight>0.50</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_toxinresistance</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_temperatureresistance</Tag>
+    <Parent>skill_metabolism</Parent>
+    <ParentWeight>0.40</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_temperatureresistance</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_manual</Tag>
+    <Parent>skill_body</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_manual</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_motorcoordination</Tag>
+    <Parent>skill_manual</Parent>
+    <ParentWeight>0.30</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_motorcoordination</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_ambidexterity</Tag>
+    <Parent>skill_motorcoordination</Parent>
+    <ParentWeight>0.80</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_ambidexterity</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_jugglery</Tag>
+    <Parent>skill_motorcoordination</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>1</IsActive>
+    <IconPath>icon_skill_jugglery</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_craftsimple</Tag>
+    <Parent>skill_manual</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_craftsimple</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_carpentry</Tag>
+    <Parent>skill_craftsimple</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_carpentry</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_armoring</Tag>
+    <Parent>skill_craftsimple</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_armoring</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_smithing</Tag>
+    <Parent>skill_craftsimple</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_smithing</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_masonry</Tag>
+    <Parent>skill_craftsimple</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_masonry</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_tailoring</Tag>
+    <Parent>skill_craftsimple</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_tailoring</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_shoemaking</Tag>
+    <Parent>skill_craftsimple</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_shoemaking</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_leatherworking</Tag>
+    <Parent>skill_craftsimple</Parent>
+    <ParentWeight>0.10</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_leatherworking</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_craftprecise</Tag>
+    <Parent>skill_manual</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_craftprecise</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_trapmaking</Tag>
+    <Parent>skill_craftprecise</Parent>
+    <ParentWeight>0.33</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_trapmaking</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_ironwork</Tag>
+    <Parent>skill_craftprecise</Parent>
+    <ParentWeight>0.33</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_ironwork</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_jewelling</Tag>
+    <Parent>skill_craftprecise</Parent>
+    <ParentWeight>0.34</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_jewelling</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_handprecision</Tag>
+    <Parent>skill_manual</Parent>
+    <ParentWeight>0.30</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_handprecision</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_lockpick</Tag>
+    <Parent>skill_handprecision</Parent>
+    <ParentWeight>0.40</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_lockpick</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_pickpocket</Tag>
+    <Parent>skill_handprecision</Parent>
+    <ParentWeight>0.40</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_pickpocket</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_trapdisarm</Tag>
+    <Parent>skill_handprecision</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_trapdisarm</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_combat</Tag>
+    <Parent>skill_body</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_combat</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_lsword</Tag>
+    <Parent>skill_combat</Parent>
+    <ParentWeight>0.05</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_lsword</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_lswordsingle</Tag>
+    <Parent>skill_lsword</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_lswordsingle</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_lswordformation</Tag>
+    <Parent>skill_lsword</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_lswordformation</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_lswordattacks</Tag>
+    <Parent>skill_lsword</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_lswordattacks</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_lswordblocks</Tag>
+    <Parent>skill_lsword</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_lswordblocks</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_lswordtechniques</Tag>
+    <Parent>skill_lsword</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_lswordtechniques</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_axe</Tag>
+    <Parent>skill_combat</Parent>
+    <ParentWeight>0.05</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_axe</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_axesingle</Tag>
+    <Parent>skill_axe</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_axesingle</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_axeformation</Tag>
+    <Parent>skill_axe</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_axeformation</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_axeattacks</Tag>
+    <Parent>skill_axe</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_axeattacks</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_axeblocks</Tag>
+    <Parent>skill_axe</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_axeblocks</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_axetechniques</Tag>
+    <Parent>skill_axe</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_axetechniques</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_2sword</Tag>
+    <Parent>skill_combat</Parent>
+    <ParentWeight>0.05</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_2sword</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_2swordsingle</Tag>
+    <Parent>skill_2sword</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_2swordsingle</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_2swordformation</Tag>
+    <Parent>skill_2sword</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_2swordformation</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_2swordattacks</Tag>
+    <Parent>skill_2sword</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_2swordattacks</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_2swordblocks</Tag>
+    <Parent>skill_2sword</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_2swordblocks</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_2swordtechniques</Tag>
+    <Parent>skill_2sword</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_2swordtechniques</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_shield</Tag>
+    <Parent>skill_combat</Parent>
+    <ParentWeight>0.05</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_shield</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_shieldsingle</Tag>
+    <Parent>skill_shield</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_shieldsingle</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_shieldformation</Tag>
+    <Parent>skill_shield</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_shieldformation</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_shieldattacks</Tag>
+    <Parent>skill_shield</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_shieldattacks</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_shieldblocks</Tag>
+    <Parent>skill_shield</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_shieldblocks</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_shieldtechniques</Tag>
+    <Parent>skill_shield</Parent>
+    <ParentWeight>0.20</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_shieldtechniques</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_lcrossbow</Tag>
+    <Parent>skill_combat</Parent>
+    <ParentWeight>0.05</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_lcrossbow</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_lcrossbowaccuracy</Tag>
+    <Parent>skill_lcrossbow</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_lcrossbowaccuracy</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_lcrossbowreloading</Tag>
+    <Parent>skill_lcrossbow</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_lcrossbowreloading</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_lcrossbowclosecombat</Tag>
+    <Parent>skill_lcrossbow</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_lcrossbowclosecombat</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_lcrossbowtechniques</Tag>
+    <Parent>skill_lcrossbow</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_lcrossbowtechniques</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_lbow</Tag>
+    <Parent>skill_combat</Parent>
+    <ParentWeight>0.05</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_lbow</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_lbowaccuracy</Tag>
+    <Parent>skill_lbow</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_lbowaccuracy</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_lbowreload</Tag>
+    <Parent>skill_lbow</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_lbowreload</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_lbowclosecombat</Tag>
+    <Parent>skill_lbow</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_lbowclosecombat</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_lbowtechniques</Tag>
+    <Parent>skill_lbow</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_lbowtechniques</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_sling</Tag>
+    <Parent>skill_combat</Parent>
+    <ParentWeight>0.05</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_sling</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_slingaccuracy</Tag>
+    <Parent>skill_sling</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_slingaccuracy</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_slingreload</Tag>
+    <Parent>skill_sling</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_slingreload</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_slingclosecombat</Tag>
+    <Parent>skill_sling</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_slingclosecombat</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_slingtechniques</Tag>
+    <Parent>skill_sling</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_slingtechniques</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_throwing</Tag>
+    <Parent>skill_combat</Parent>
+    <ParentWeight>0.05</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_throwing</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_throwingaccuracy</Tag>
+    <Parent>skill_throwing</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_throwingaccuracy</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_throwingreload</Tag>
+    <Parent>skill_throwing</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_throwingreload</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_throwingclosecombat</Tag>
+    <Parent>skill_throwing</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_throwingclosecombat</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+<Skill>
+    <Tag>skill_throwingtechniques</Tag>
+    <Parent>skill_throwing</Parent>
+    <ParentWeight>0.25</ParentWeight>
+    <RootParent>skill_body</RootParent>
+    <IsActive>0</IsActive>
+    <IconPath>icon_skill_throwingtechniques</IconPath>
+    <Supports Amount="0">
+    </Supports>
+</Skill>
+</Skills>
+
